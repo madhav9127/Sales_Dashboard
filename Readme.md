@@ -8,10 +8,9 @@ This project presents an interactive **Sales Dashboard** built in Microsoft Exce
 
 ## Dashboard Preview
 
-<p align="center">
-  <img src="assets/ss1.png" width="45%" />
-  <img src="assets/ss2.png" width="45%" />
-</p>
+![Dashboard Preview](assets/ss1.png) 
+
+![Dashboard Preview](assets/ss2.png)
 
 ## Objectives
 
