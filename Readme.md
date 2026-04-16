@@ -1,8 +1,8 @@
-\# 📊 Vrinda Store Sales Dashboard (Excel)
+#  Vrinda Store Sales Dashboard (Excel)
 
 
 
-\## 🔍 Project Overview
+##  Project Overview
 
 
 
@@ -12,11 +12,11 @@ This project presents an interactive \*\*Sales Dashboard\*\* built in Microsoft 
 
 \---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard Preview](assets/ss1.png)
 
-\## 🎯 Objectives
+##  Objectives
 
 
 
@@ -36,17 +36,17 @@ This project presents an interactive \*\*Sales Dashboard\*\* built in Microsoft 
 
 
 
-\## 📌 Key Metrics (KPIs)
+##  Key Metrics (KPIs)
 
 
 
-\* 💰 \*\*Net Sales (₹)\*\* – Based on \*Delivered Orders only\*
+\*  \*\*Net Sales (₹)\*\* – Based on \*Delivered Orders only\*
 
-\* 📦 \*\*Total Orders\*\*
+\*  \*\*Total Orders\*\*
 
 
 
-> ✅ Sales calculations are based only on delivered orders to reflect actual realized revenue.
+>  Sales calculations are based only on delivered orders to reflect actual realized revenue.
 
 
 
@@ -54,7 +54,7 @@ This project presents an interactive \*\*Sales Dashboard\*\* built in Microsoft 
 
 
 
-\## 📊 Dashboard Features
+\##  Dashboard Features
 
 
 
@@ -113,7 +113,7 @@ This project presents an interactive \*\*Sales Dashboard\*\* built in Microsoft 
 
 
 
-\## 🚀 How to Use
+\##  How to Use
 
 
 
@@ -139,7 +139,7 @@ This project presents an interactive \*\*Sales Dashboard\*\* built in Microsoft 
 
 
 
-\## 💡Final conclusion to improve store sales
+## Final conclusion to improve store sales
 
 
 
