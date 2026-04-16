@@ -12,7 +12,9 @@ This project presents an interactive \*\*Sales Dashboard\*\* built in Microsoft 
 
 \---
 
+## 📊 Dashboard Preview
 
+![Dashboard Preview](assets/ss1.png)
 
 \## 🎯 Objectives
 
